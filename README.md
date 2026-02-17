@@ -2,7 +2,9 @@
 Project 3 inside KodNest Premium Build System
 
 Live Deployment:  
-(Insert your deployed URL here)
+https://ai-resume-builder-pied-ten.vercel.app
+
+
 
 GitHub Repository:  
 https://github.com/akshay-shastri/AI-Resume-Builder
